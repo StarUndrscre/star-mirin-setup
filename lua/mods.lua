@@ -14,5 +14,5 @@ for pn = 1, #PP do
 	P[pn]:hidden(1)
 end
 
-xero.require('definemods')
+xero.require('star')
 -- xero.require('c2l')

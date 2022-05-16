@@ -1,4 +1,4 @@
--- StarUndrscre's Definemods v0.1
+-- StarUndrscre's Definemods
 
 local p1DefaultX = P1:GetX()
 local p2DefaultX = P2:GetX()
@@ -50,6 +50,9 @@ definemod {'bgalpha', function(percent)
     bg:glow(0, 0, 0, actualPercent)
 end}
 
-setdefault {100, 'bgzoom', 40, 'bgalpha'}
-
 -- put other definemods here:
+
+
+
+-- apply defaults
+setdefault {100, 'bgzoom', 40, 'bgalpha'}
