@@ -15,4 +15,3 @@ for pn = 1, #PP do
 end
 
 xero.require('star')
--- xero.require('c2l')

@@ -55,4 +55,4 @@ end}
 
 
 -- apply defaults
-setdefault {100, 'bgzoom', 40, 'bgalpha'}
+setdefault {100, 'bgzoom', 50, 'bgalpha'}
